@@ -1,10 +1,10 @@
 The Library of the Babel
 ========================
 
+![Sistine Chapel](web/image.jpg)
+
 Image of an Overpopulated Universe
 ----------------------------------
-
-![Sistine Chapel](web/image.jpg)
 
 With advancements in technology and knowledge, terrorism and nihilism become exponentially grater threats. Communities must constantly scale down in order to survive, because they become a threat to themselves.
 
