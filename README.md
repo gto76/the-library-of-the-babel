@@ -3,8 +3,6 @@ The Library of the Babel
 
 ![Sistine Chapel](web/image.jpg =1000x562)
 
-sfdsf
-
 Image of an Overpopulated Universe
 ----------------------------------
 
