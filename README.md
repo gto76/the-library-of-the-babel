@@ -1,7 +1,7 @@
 The Library of the Babel
 ========================
 
-![Sistine Chapel](web/image.jpg =250x250)
+![Sistine Chapel](web/image.jpg =1000x562)
 
 sfdsf
 
