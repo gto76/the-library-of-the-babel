@@ -1,7 +1,7 @@
 The Library of the Babel
 ========================
 
-<img src="web/image.jpg" alt="Sistine Chape" style="max-width:100%;">
+![Sistine Chapel](web/image.jpg)
 
 Image of an Overpopulated Universe
 ----------------------------------
