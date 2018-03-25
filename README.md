@@ -1,10 +1,10 @@
 The Library of the Babel
 ========================
 
-![Sistine Chapel](web/image.jpg =1000x562)
-
 Image of an Overpopulated Universe
 ----------------------------------
+
+![Sistine Chapel](web/image.jpg)
 
 With advancements in technology and knowledge, terrorism and nihilism become exponentially grater threats. Communities must constantly scale down in order to survive, because they become a threat to themselves.
 
@@ -24,17 +24,5 @@ It seems like everybody would become grass, because as soon as somebody would ch
 
 This brings us to Borges' short story The Library of the Babel, where the whole universe is one huge library, a web of connected hexagonal rooms with nothing but balconies of shelves of books (and hopefully a toilet :). The question is, is it possible to overpopulate universe? At least to the degree, that the cells are too close to each other for comfort so that they start something similar to the transformations that happened on the island. Of course, one could reject such a view as too reductionist, looking at this effectively infinite web of gods as a mere colony of bacteria, but still.
 
-Other interesting part of the story is that shelves contain every possible book of 410 pages. Even though that would effectively mean that most individuals would never in their lives see a coherent work, there might be something significant to this. Namely that this fact would have been known to every inhabitant, meaning a frame of the universe/existence would have been
-universally shared. A kind of transcendental dream that turned out to be a nightmare, because it not only erases the possibility of an authentic action*, but also because it makes 
+Other interesting part of the story is that shelves contain every possible book of 410 pages. Even though that would effectively mean that most individuals would never in their lives see a coherent work, there might be something significant to this. Namely that this fact would have been known to every inhabitant, meaning a frame of the universe/existence would have been universally shared. A kind of transcendental dream that turned out to be a nightmare, because it not only erases the possibility of an authentic action (In the story there are some mentions of the movements that were destroying some books, but were of course totally impotent, because there would always remain millions of books that would differ in one character), but also because it makes 
 castration totally transparent, unhidable.
-
-
-* In the story there are some mentions of the movements, that were destroying some books, but were of course totally impotent, because there would always remain millions of books that would differ in one character.
-
-
-
-
-
-
-
-
