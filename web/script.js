@@ -5,7 +5,8 @@
 parseMd()
 
 function parseMd() {
-  var GITHUB = 'https://raw.githubusercontent.com/gto76/the-library-of-the-babel/master/README.md'
+  // var GITHUB = 'https://raw.githubusercontent.com/gto76/the-library-of-the-babel/master/README.md'
+  var GITHUB = 'README.md'
   jQuery.get(GITHUB, function(text) {
     var converter = new showdown.Converter()
     html = converter.makeHtml(text)
