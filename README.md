@@ -1,6 +1,8 @@
 The Library of the Babel
 ========================
 
+![Sistine Chape](web/image.jpg)
+
 Image of an Overpopulated Universe
 ----------------------------------
 
