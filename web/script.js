@@ -1,8 +1,6 @@
-// $(document).ready(function() {
-  // parseMd()
-// });
-
-parseMd()
+$(document).ready(function() {
+  parseMd()
+});
 
 function parseMd() {
   var GITHUB = 'https://raw.githubusercontent.com/gto76/the-library-of-the-babel/master/README.md'
@@ -11,7 +9,7 @@ function parseMd() {
     html = converter.makeHtml(text)
     aDiv = $('#bla')
     nodes = $.parseHTML(html)
-    aDiv.append(nodes);
+    aDiv.after(nodes);
     insertLinks()
   });
 }
